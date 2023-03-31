@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6/58aK8QL+EBJu1T5eP64ftcTZxPWBye/CnQriEycp/NROCanOIzTWp2/H+gYxFcTwdge3seQyoH3axpoEhCg==",
+  "success": true,
+  "projectFilePath": "D:\\VRCHAT STUFF\\Scraper\\VRCScraperWPF-PARALLEL\\VRCScraperWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tahseen\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.4\\microsoft-windowsapicodepack-core.1.1.4.nupkg.sha512",
+    "C:\\Users\\Tahseen\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.4\\microsoft-windowsapicodepack-shell.1.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

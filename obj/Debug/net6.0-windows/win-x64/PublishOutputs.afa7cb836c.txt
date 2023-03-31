@@ -1,0 +1,2 @@
+c:\Temporary\SingleDeploy\VRCScraperWPF.pdb
+c:\Temporary\SingleDeploy\VRCScraperWPF.exe
